@@ -8,13 +8,13 @@ public class Units {
 
         if (Num == 1) {
             System.out.print("unit");
-        } else if (Num == 10) {
+        }else if (Num == 10) {
             System.out.print("TEN");
-        } else if (Num == 100) {
+        }else if (Num == 100) {
             System.out.print("HUNDRED");
-        } else if (Num == 1000) {
+        }else if (Num == 1000) {
             System.out.print("THOUSAND");
-        } else {
+        }else {
             System.out.print("Enter a Number from (1,10,100,1000)");
         }
     }
