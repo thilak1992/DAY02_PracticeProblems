@@ -7,6 +7,7 @@ public class ReadNUM {
         Scanner x = new Scanner(System.in);
         int Num = x.nextInt();
 
+
         if(Num == 1) {
             System.out.print("one");
         }else if(Num == 2) {
