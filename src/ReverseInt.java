@@ -8,10 +8,12 @@ public class ReverseInt {
         int reverse = 0;
         int reminder = 0;
 
-        for(;Num != 231; Num = Num/10); {
+        for(;Num != 0;) {
             reminder = Num%10;
             reverse = reverse*10 + reminder;
+            Num = Num/10;
         }
+
         System.out.println("Reversed Number is: " + reverse);
     }
 }
