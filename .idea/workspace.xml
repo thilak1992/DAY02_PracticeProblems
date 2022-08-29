@@ -34,10 +34,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/thila/IdeaProjects/DAY02_PracticeProblems/src"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfNatural">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thila\IdeaProjects\DAY02_PracticeProblems\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SumOfNaturalN">
     <configuration name="ReadNUM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadNUM" />
       <module name="DAY02_PracticeProblems" />
@@ -45,8 +54,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseInt" />
+      <module name="DAY02_PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumOfNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumOfNatural" />
+      <module name="DAY02_PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNaturalN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfNaturalN" />
       <module name="DAY02_PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,6 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfNaturalN" />
+        <item itemvalue="Application.ReverseInt" />
         <item itemvalue="Application.SumOfNatural" />
         <item itemvalue="Application.Units" />
         <item itemvalue="Application.ReadNUM" />
@@ -125,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661676226903</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First commit">
+      <created>1661687374950</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661687374950</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
