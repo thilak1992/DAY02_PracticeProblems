@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef5ddd8b-abde-4338-a18c-30f16c4ff691" name="Changes" comment="First commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseInt.java" afterDir="false" />
+    <list default="true" id="ef5ddd8b-abde-4338-a18c-30f16c4ff691" name="Changes" comment="Second commit. Changes in Forloop condition.">
+      <change beforePath="$PROJECT_DIR$/src/PalindromeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseInt">
+  <component name="RunManager" selected="Application.PalindromeNum">
+    <configuration name="PalindromeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeNum" />
+      <module name="DAY02_PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReverseInt" />
       <module name="DAY02_PracticeProblems" />
@@ -76,20 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Units" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Units" />
-      <module name="DAY02_PracticeProblems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeNum" />
         <item itemvalue="Application.ReverseInt" />
         <item itemvalue="Application.ReverseIntWhile" />
         <item itemvalue="Application.SumOfNaturalN" />
         <item itemvalue="Application.SumOfNatural" />
-        <item itemvalue="Application.Units" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661741877831</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="First commit">
+      <created>1661742751584</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661742751585</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Second commit. Changes in Forloop condition.">
+      <created>1661742850025</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661742850025</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +197,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="First commit / units of Numbers" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit. Changes in Forloop condition." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit. Changes in Forloop condition." />
   </component>
 </project>
