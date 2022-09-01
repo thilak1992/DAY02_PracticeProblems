@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef5ddd8b-abde-4338-a18c-30f16c4ff691" name="Changes" comment="Second commit. Changes in Forloop condition.">
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNum.java" afterDir="false" />
+    <list default="true" id="ef5ddd8b-abde-4338-a18c-30f16c4ff691" name="Changes" comment="First commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,28 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeNum">
+  <component name="RunManager" selected="Application.SpringSeason">
+    <configuration name="Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arithmetic" />
+      <module name="DAY02_PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckVowel" />
+      <module name="DAY02_PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Month" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Month" />
+      <module name="DAY02_PracticeProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalindromeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PalindromeNum" />
       <module name="DAY02_PracticeProblems" />
@@ -54,29 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInt" />
-      <module name="DAY02_PracticeProblems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseIntWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseIntWhile" />
-      <module name="DAY02_PracticeProblems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNatural" />
-      <module name="DAY02_PracticeProblems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfNaturalN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNaturalN" />
+    <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringSeason" />
       <module name="DAY02_PracticeProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringSeason" />
+        <item itemvalue="Application.Arithmetic" />
+        <item itemvalue="Application.Month" />
+        <item itemvalue="Application.CheckVowel" />
         <item itemvalue="Application.PalindromeNum" />
-        <item itemvalue="Application.ReverseInt" />
-        <item itemvalue="Application.ReverseIntWhile" />
-        <item itemvalue="Application.SumOfNaturalN" />
-        <item itemvalue="Application.SumOfNatural" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,42 @@
       <option name="project" value="LOCAL" />
       <updated>1661742850025</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="First commit.">
+      <created>1661743334074</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661743334074</updated>
+    </task>
+    <task id="LOCAL-00013" summary="First commit.">
+      <created>1661758296562</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661758296562</updated>
+    </task>
+    <task id="LOCAL-00014" summary="First commit.">
+      <created>1661758915992</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661758915992</updated>
+    </task>
+    <task id="LOCAL-00015" summary="First commit.">
+      <created>1661763753839</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661763753839</updated>
+    </task>
+    <task id="LOCAL-00016" summary="First commit.">
+      <created>1661872139513</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661872139513</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,6 +233,7 @@
     <MESSAGE value="First commit / units of Numbers" />
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit. Changes in Forloop condition." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit. Changes in Forloop condition." />
+    <MESSAGE value="First commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
   </component>
 </project>
